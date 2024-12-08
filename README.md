@@ -43,8 +43,8 @@ The repository is structured as follows:
 │   ├── train.csv              # Training dataset
 │   ├── test.csv               # Testing dataset
 │   └── README.md              # Description of datasets
-├── README.md                   # Project description and instructions
-└── requirements.txt            # Python dependencies
+├── README.md                  # Project description and instructions
+└── requirements.txt           # Python dependencies
 ```
 
 ---
