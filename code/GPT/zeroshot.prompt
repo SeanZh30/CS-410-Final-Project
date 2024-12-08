@@ -1,0 +1,7 @@
+You are a spam email detector. 
+Analyze the following email text and determine if it is spam or not. 
+Your response must be either "1" for Spam or "0" for Not Spam. 
+Do not include any additional explanation.
+
+Email text: "{text}"
+Response:
