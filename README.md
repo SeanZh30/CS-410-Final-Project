@@ -14,11 +14,6 @@ All code is organized within the `code` folder.
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Approaches and Methodologies](#approaches-and-methodologies)
-  - [1. Traditional Machine Learning (LR and SVM)](#1-traditional-machine-learning-lr-and-svm)
-  - [2. GPT](#2-gpt)
-  - [3. BERT](#3-bert)
-- [Results](#results)
 - [Contributors](#contributors)
 
 ---
