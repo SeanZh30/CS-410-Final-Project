@@ -40,9 +40,7 @@ The repository is structured as follows:
 │   │   ├── run.py             # Main script to fine-tune and evaluate BERT
 │   │   └── utils.py           # Utility functions for BERT
 ├── data
-│   ├── train.csv              # Training dataset
-│   ├── test.csv               # Testing dataset
-│   └── README.md              # Description of datasets
+│   └── spam_ham_dataset.csv   # Training dataset
 ├── README.md                  # Project description and instructions
 └── requirements.txt           # Python dependencies
 ```
