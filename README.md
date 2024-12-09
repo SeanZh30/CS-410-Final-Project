@@ -25,24 +25,22 @@ The repository is structured as follows:
 .
 ├── code
 │   ├── tradition-LR-SVM
-│   │   ├── preprocess.py      # Preprocessing scripts
-│   │   ├── lr_svm.py          # Logistic Regression and SVM implementation
-│   │   └── utils.py           # Utility functions
+│   │   └── Traditional_LR_SVM.ipynb    # Jupyter notebook for traditional model
 │   ├── GPT
-│   │   ├── run.py             # Run the model
-│   │   ├── fewshot.prompt     # Prompt for fewshot detection
-│   │   └── zeroshot.prompt    # Prompt for zeroshot detection
+│   │   ├── run.py                      # Run the model
+│   │   ├── fewshot.prompt              # Prompt for fewshot detection
+│   │   └── zeroshot.prompt             # Prompt for zeroshot detection
 │   ├── BERT
-│   │   ├── bert.ipynb         # Jupyter notebook for BERT experimentation
-│   │   ├── datamodule.py      # Data preparation and loading module
-│   │   ├── inference.py       # Inference script for BERT
-│   │   ├── model.py           # BERT model definition
-│   │   ├── run.py             # Main script to fine-tune and evaluate BERT
-│   │   └── utils.py           # Utility functions for BERT
+│   │   ├── bert.ipynb                  # Jupyter notebook for BERT experimentation
+│   │   ├── datamodule.py               # Data preparation and loading module
+│   │   ├── inference.py                # Inference script for BERT
+│   │   ├── model.py                    # BERT model definition
+│   │   ├── run.py                      # Main script to fine-tune and evaluate BERT
+│   │   └── utils.py                    # Utility functions for BERT
 ├── data
-│   └── spam_ham_dataset.csv   # Training dataset
-├── README.md                  # Project description and instructions
-└── requirements.txt           # Python dependencies
+│   └── spam_ham_dataset.csv            # Training dataset
+├── README.md                           # Project description and instructions
+└── requirements.txt                    # Python dependencies
 ```
 
 ---
