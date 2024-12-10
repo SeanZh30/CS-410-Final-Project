@@ -116,6 +116,12 @@ After configuring the API key, you can run the following command:
 $ python code/GPT/run.py
 ```
 
+You can also run ipynb file here:
+
+```bash
+$ jupyter notebook code/GPT/run.ipynb
+```
+
 The output will include accuracy metrics. You can also customize the prompts to test specific scenarios.
 
 ---
